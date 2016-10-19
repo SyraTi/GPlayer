@@ -1,14 +1,10 @@
 # GPlayer
 这是个弹幕播放器
 
-###Tips
-	这份demo包含了一份带注释的jsp后台可供参考 //dmkEngine.jsp
-###Tips
-	这是个直接从IDEA上传的仓库 如果你有IntelliJ IDEA 那么你可以直接导入使用
 
 ###你需要引入的文件
-	<script src="js/jquery.js"></script>
-	<script src="js/jquery.GPlayer.js"></script>
+	<script src="core/jquery.js"></script>
+	<script src="core/jquery.GPlayer.js"></script>
 ###用法
 	$('any blocks').GPlayer();
 
@@ -44,4 +40,8 @@
 		<div id="g-err"></div>
 	</div>
 	
-	
+
+###Tips1
+	这份demo包含了一份带注释的jsp后台可供参考 //dmkEngine.jsp
+###Tips2
+	这是个直接从IDEA上传的仓库 如果你有IntelliJ IDEA 那么你可以直接导入使用
