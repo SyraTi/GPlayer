@@ -1,0 +1,22 @@
+
+#g-dmk2sub{
+	width:80%;
+}
+
+#g-dmkPlayer{
+	position: relative;
+	overflow-x:hidden;
+}
+#g-dmkPlayer #g-err{
+	position:absolute;
+	display: none;
+	top:10px;
+	color:#f00;
+	font-family:microsoft yahei;
+}
+#g-dmkPlayer .g-dmks{
+	position:absolute;
+
+	white-space:nowrap;
+	font-family:microsoft yahei;
+}

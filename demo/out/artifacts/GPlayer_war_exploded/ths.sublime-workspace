@@ -1,0 +1,1057 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jq",
+				"jquery.js"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"set",
+				"setInterval〔function〕"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"btn-",
+				"btn-info"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"conta",
+				"container-fluid"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"blu",
+				"blur"
+			],
+			[
+				"par",
+				"parent"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Ma",
+				"Math.random()\tMath"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"con",
+				"contentBg\t style.css"
+			],
+			[
+				"css",
+				"css\t.css() - multiple"
+			],
+			[
+				"len",
+				"length\tArray"
+			],
+			[
+				"lastI",
+				"lastIndexOf(searchElement)\tArray"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"clip",
+				"clipBlur〔function〕"
+			],
+			[
+				"offse",
+				"offset\t.offset()"
+			],
+			[
+				"off",
+				"offset\t.offset()"
+			],
+			[
+				"conten",
+				"content-box"
+			],
+			[
+				"back",
+				"background-clip"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"header",
+				"headerShadow\t style.css"
+			],
+			[
+				"footer",
+				"footerShadow"
+			],
+			[
+				"cli",
+				"clip"
+			],
+			[
+				"profi",
+				"profileBg"
+			],
+			[
+				"bloc",
+				"block"
+			],
+			[
+				"init",
+				"initPlayer"
+			],
+			[
+				"res",
+				"resize\t.resize()"
+			],
+			[
+				"cons",
+				"contrast()"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"o-",
+				"op-ms\t-ms-filter:'progid:DXImageTransform.Microsoft.Alpha(Opacity=100)';"
+			],
+			[
+				"fil",
+				"filter"
+			],
+			[
+				"url",
+				"url('35847388"
+			],
+			[
+				"gloab",
+				"global"
+			],
+			[
+				"load",
+				"loadMusicList"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"music",
+				"musicId"
+			],
+			[
+				"musi",
+				"musicId"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"tra",
+				"track"
+			],
+			[
+				"getMusi",
+				"getMusicUrl"
+			],
+			[
+				"getMu",
+				"getMusicList"
+			],
+			[
+				"play",
+				"playerLists_list"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"key",
+				"key2"
+			],
+			[
+				"pl",
+				"playlist('124394335"
+			],
+			[
+				"glyph",
+				"glyphicon-stop"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"player",
+				"playerLists"
+			],
+			[
+				"fade",
+				"fadeIn\t.fadeIn()"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"ani",
+				"anim-\tanimation: ${1:name} ${2:duration} ${3:timing-function} ${4:delay} ${5:iteration-count} ${6:direction} ${7:fill-mode};"
+			],
+			[
+				"settime",
+				"setTimeout\tjsWindow"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"th",
+				"Touhou-Spread/"
+			],
+			[
+				"styl",
+				"style.css"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"ready",
+				"ready\t$(document).ready"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"r",
+				"random"
+			],
+			[
+				"prin",
+				"principle-toggle"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4293,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 862,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/jquery.GPlayer.js",
+			"settings":
+			{
+				"buffer_size": 6620,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "i.html",
+			"settings":
+			{
+				"buffer_size": 351,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/Program Files/sublime3/Data/Settings/SideBarEnhancements.json",
+			"settings":
+			{
+				"buffer_size": 127,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/jquery.scrollify.min.js",
+			"settings":
+			{
+				"buffer_size": 3259,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 137590,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				" PackageResourceViewer: Open Resource",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"add re",
+				"Package Control: Add Repository"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/tomcat/webapps/myBlog/web",
+		"/D/xampp/tomcat/webapps/myBlog/web/css",
+		"/D/xampp/tomcat/webapps/myBlog/web/js"
+	],
+	"file_history":
+	[
+		"/D/xampp/tomcat/webapps/myBlog/web/js/script.js",
+		"/D/xampp/htdocs/module/index.html",
+		"/D/Program Files/sublime3/Data/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/D/Program Files/sublime3/Data/Packages/User/CodeFormatter.sublime-settings",
+		"/D/Program Files/sublime3/Data/Settings/SideBarEnhancements.json",
+		"/C/Users/GenyaHoshino/Desktop/1.txt",
+		"/D/xampp/tomcat/webapps/myBlog/web/i.html",
+		"/C/Users/GenyaHoshino/Documents/Tencent Files/467289924/FileRecv/eduweb.sql",
+		"/D/xampp/htdocs/myblog/index.html",
+		"/D/xampp/htdocs/pmg/dmkEngine.php",
+		"/D/xampp/htdocs/pmg/index.php",
+		"/D/xampp/tomcat/webapps/myBlog/web/index.html",
+		"/D/xampp/htdocs/Touhou-Spread1/js/script.js",
+		"/D/xampp/htdocs/Touhou-Spread1/css/style.css",
+		"/D/xampp/htdocs/NeteaseCloudMusicApi/weapi/README.md",
+		"/D/xampp/htdocs/Touhou-Spread/index.php",
+		"/D/BaiduYunDownload/C2.Lab 02.Ranko[cmpfans]/C2.Lab 02.Ranko/Hi,want to steal it,Mr.Polak？.txt",
+		"/D/xampp/htdocs/Touhou-Spread/.sublime/SideBarEnhancements.json",
+		"/D/xampp/htdocs/tp323/index.php",
+		"/C/Users/GenyaHoshino/workspace/timer/manifest.mf",
+		"/C/Users/GenyaHoshino/Desktop/东方安利素材/弹幕xml/1.xml",
+		"/D/xampp/htdocs/Touhou-Spread/sftp-config.json",
+		"/C/Users/GenyaHoshino/AppData/Local/Temp/HZ$D.223.3937/HZ$D.223.3938/snifferpro_33LC.com/使用说明.txt",
+		"/D/Program Files/sublime3/Data/Packages/User/SFTP.sublime-settings",
+		"/D/xampp/htdocs/Touhou-Spread/php/player.php",
+		"/D/xampp/htdocs/Touhou-Spread/js/player.js",
+		"/D/xampp/htdocs/Touhou-Spread/js/script.js",
+		"/D/xampp/htdocs/Touhou-Spread/css/style.css",
+		"/C/Users/GenyaHoshino/Desktop/temp.php",
+		"/D/xampp/htdocs/Touhou-Spread/php/playerLists.php",
+		"/D/xampp/htdocs/Touhou-Spread/js/playerList.js",
+		"/D/Program Files/sublime3/Data/Packages/Default/Default (Windows).sublime-keymap",
+		"/D/xampp/htdocs/Touhou-Spread/ths.sublime-project",
+		"/D/xampp/htdocs/Touhou-Spread/php/test.json",
+		"/D/xampp/htdocs/Touhou-Spread/php/test.tx",
+		"/D/xampp/htdocs/NeteaseCloudMusicApi/api/MusicAPI.php",
+		"/D/xampp/htdocs/NeteaseCloudMusicApi/api/README.md",
+		"/D/xampp/htdocs/NeteaseCloudMusicApi/eapi/README.md",
+		"/D/xampp/htdocs/NeteaseCloudMusicApi/weapi/MusicAPI.php",
+		"/D/xampp/htdocs/Touhou-Spread/css/bootstrap.css",
+		"/D/xampp/htdocs/Saru/index.html",
+		"/D/xampp/htdocs/Touhou-Spread/fonts/REIMU-webfont/stylesheet.css",
+		"/D/Program Files/sublime3/Data/Packages/Better Completion/sbc-setting.sublime-settings",
+		"/D/Program Files/sublime3/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/D/Program Files/sublime3/Data/Packages/SublimeCodeIntel/.codeIntel/config.txt",
+		"/D/Program Files/sublime3/Data/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/D/Program Files/sublime3/Data/Packages/SublimeAllAutocomplete/SublimeAllAutocomplete.sublime-settings",
+		"/D/Program Files/sublime3/Data/Packages/CSS/Completion Rules.tmPreferences",
+		"/D/Program Files/sublime3/Data/Packages/CSS/css_completions.py",
+		"/D/Program Files/sublime3/Data/Packages/CSS/CSS.sublime-syntax",
+		"/D/Program Files/sublime3/Data/Packages/User/SublimeAllAutocomplete.sublime-settings",
+		"/D/Program Files/sublime3/Data/Packages/User/css_style_completions.sublime-settings",
+		"/D/Program Files/sublime3/Data/Installed Packages/All Autocomplete.sublime-package",
+		"/D/Program Files/sublime3/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Program Files/sublime3/Data/Packages/User/Side Bar.sublime-settings",
+		"/D/Program Files/sublime3/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/GenyaHoshino/AppData/Local/Temp/HZ$D.302.4650/HZ$D.302.4651/dist/css/bootstrap.min.css",
+		"/D/xampp/htdocs/Touhou-Spread/css/bootstrap.min.css",
+		"/D/xampp/htdocs/Touhou-Spread/js/bootstrap.min.js",
+		"/D/Program Files/sublime3/Data/Packages/AutoFileName/autofilename.sublime-settings",
+		"/D/xampp/htdocs/tag/index.php",
+		"/D/Program Files/sublime3/Data/Packages/User/Preferences.sublime-settings",
+		"/D/Program Files/sublime3/Data/Installed Packages/Package Control.sublime-package",
+		"/D/Program Files/sublime3/Data/Packages/Default/Preferences.sublime-settings",
+		"/D/Program Files/sublime3/Data/Packages/User/Package Control.sublime-settings",
+		"/D/xampp/htdocs/tag/Conf/config.php",
+		"/C/Users/GenyaHoshino/Desktop/新建文本文档.txt",
+		"/D/xampp/apache/README.txt",
+		"/D/xampp/htdocs/PhpProject1/a.php",
+		"/D/迅雷下载/rxTools_2016-03-12T20-38-04/Tools/readme.txt",
+		"/D/迅雷下载/rxTools v3.0 beta 2/rxTools v3.0 beta 2/LICENSE_CakeHax.txt",
+		"/D/迅雷下载/rxTools v2.6/rxTools v2.6/tools/readme.txt",
+		"/D/xampp/htdocs/PhpProject1/script.js",
+		"/C/Users/GenyaHoshino/AppData/Local/Temp/HZ$D.297.4372/HZ$D.297.4374/pmg/dmkEngine.php",
+		"/C/Users/GenyaHoshino/AppData/Local/Temp/HZ$D.297.4372/HZ$D.297.4373/pmg/index.php",
+		"/D/xampp/htdocs/PhpProject1/#.php",
+		"/C/Users/GenyaHoshino/AppData/Local/Temp/HZ$D.756.040/HZ$D.756.041/readme.txt",
+		"/D/迅雷下载/CommViewforWiFi (1)/使用说明.txt",
+		"/D/xampp/htdocs/Touhou-Spread/font/c86/webfontkit/stylesheet.css",
+		"/C/Users/GenyaHoshino/Documents/IISExpress/config/applicationhost.config",
+		"/C/Users/GenyaHoshino/Documents/visual studio 2015/Projects/WebApplication2/WebApplication2/packages.config",
+		"/X/setup.exe.config",
+		"/D/迅雷下载/MHXupdateV1.2CNcia/MHX_updateV1.2_CN/相关工具.txt",
+		"/C/Users/GenyaHoshino/Documents/visual studio 2015/Projects/WebApplication2/WebApplication2/Web.config",
+		"/C/Users/GenyaHoshino/Documents/visual studio 2015/Projects/WebApplication2/WebApplication2/Web.Debug.config",
+		"/C/Users/GenyaHoshino/Documents/visual studio 2015/Projects/WebApplication2/WebApplication2/Web.Release.config",
+		"/C/Users/GenyaHoshino/Desktop/东方安利素材/Links.txt",
+		"/C/Users/GenyaHoshino/Desktop/script.html",
+		"/C/Users/GenyaHoshino/Desktop/script.js",
+		"/C/Users/GenyaHoshino/AppData/Local/Temp/HZ$D.400.593/HZ$D.400.594/Ping‘s MHX Dex.txt",
+		"/C/Users/GenyaHoshino/Documents/Tencent Files/467289924/FileRecv/tictactoe.sql",
+		"/C/Users/GenyaHoshino/Desktop/Request/2/模块三素材/dealer.js",
+		"/C/Users/GenyaHoshino/Desktop/Request/第二次选拔赛素材/B/Media/Fonts/Dancing_Script/OFL.txt",
+		"/E/新建文本文档.txt",
+		"/D/Program Files/Adobe/Adobe After Effects CC 2016/Support Files/Presets/ae_bogus_file.txt",
+		"/C/Users/GenyaHoshino/Desktop/东方安利素材/Links.html",
+		"/C/Users/GenyaHoshino/Desktop/东方安利素材/幻夜的完美东方安利教室.txt",
+		"/D/Games/ppsspp/memstick/PSP/SYSTEM/ppsspp.ini",
+		"/D/Games/RA2/RA2.INI",
+		"/C/Users/GenyaHoshino/Downloads/download (1)",
+		"/C/Users/GenyaHoshino/Downloads/danmaku.sql",
+		"/C/Users/GenyaHoshino/Downloads/danmaku (1).sql",
+		"/C/Users/GenyaHoshino/Downloads/danmaku (2).sql",
+		"/D/Program Files (x86)/xxzs/Emulators/XX10/Data/Config/VmConfig.xml",
+		"/C/Users/GenyaHoshino/Desktop/Request/第二次选拔赛素材/B/Media/Gallery Sample/images/photos_viewer_atlas_.json",
+		"/C/Users/GenyaHoshino/Desktop/Request/第二次选拔赛素材/B/Media/prefix-free.js",
+		"/C/Users/GenyaHoshino/Desktop/东方安利素材/东方完全安利计划.txt",
+		"/C/Users/GenyaHoshino/Downloads/danmaku (3).sql",
+		"/D/BaiduYunDownload/sexfriend24[cmpfans]/sexfriend24/FxxK 30字网.txt"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" o.",
+			"o.",
+			"this.",
+			"this.ajaxPath",
+			" ajaxPath",
+			".g-dmkPlayer",
+			"g-dmk",
+			"g-form",
+			"></",
+			"auto",
+			"0 auto",
+			"center",
+			"col-md-2",
+			"col-md-3",
+			"col-md-2 ",
+			"body",
+			"save",
+			"directoryB",
+			"directory",
+			"dir",
+			"pro"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2586,
+								2944
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 720.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								520,
+								520
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/CSS3/CSS3.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/jquery.GPlayer.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								596,
+								596
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "i.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								122,
+								122
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/D/Program Files/sublime3/Data/Settings/SideBarEnhancements.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								127,
+								127
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/jquery.scrollify.min.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3259,
+								3259
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 27744.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "css/bootstrap.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 137590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								133149,
+								133159
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"syntax": "Packages/CSS3/CSS3.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 121850.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "ths.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\xampp\\htdocs\\Touhou-Spread1\\ths.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

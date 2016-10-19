@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/GPlayer_war_exploded/WEB-INF/lib/commons-beanutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/GPlayer_war_exploded/WEB-INF/lib/ezmorph-1.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/GPlayer_war_exploded/WEB-INF/lib/json-lib-2.4-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/GPlayer_war_exploded/WEB-INF/lib/commons-collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/GPlayer_war_exploded/WEB-INF/lib/jsmartcom_zh_CN.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/GPlayer_war_exploded/WEB-INF/lib/commons-lang.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/GPlayer_war_exploded/WEB-INF/lib/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/demo/out/artifacts/GPlayer_war_exploded/WEB-INF/lib/mysqlDriver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
