@@ -41,7 +41,7 @@
 	</div>
 	
 
-###Tips1
+###Tips
 	这份demo包含了一份带注释的jsp后台可供参考 //dmkEngine.jsp
-###Tips2
+###Tips
 	这是个直接从IDEA上传的仓库 如果你有IntelliJ IDEA 那么你可以直接导入使用
