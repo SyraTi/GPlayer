@@ -10,8 +10,18 @@ public class DBC {
     private Statement stmt;
     public DBC() throws Exception{
         Class.forName("com.mysql.jdbc.Driver");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/danmaku?useUnicode=true&characterEncoding=utf-8", "root", "123456");
-        stmt = conn.createStatement();
+        try {
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/danmaku?useUnicode=true&characterEncoding=utf-8", "root", "123456");
+            stmt = conn.createStatement();
+        }
+        catch (Exception e) {
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/?useUnicode=true&characterEncoding=utf-8", "root", "123456");
+            String sql ="CREATE DATABASE IF NOT EXISTS `danmaku` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;";  //创建数据库如果不存在
+            stmt = conn.createStatement();
+            stmt.executeUpdate(sql);
+            conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/danmaku?useUnicode=true&characterEncoding=utf-8", "root", "123456");
+            stmt = conn.createStatement();
+        }
     }
     public int update(String sql) throws Exception{
         int nols = stmt.executeUpdate(sql);

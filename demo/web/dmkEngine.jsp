@@ -27,13 +27,14 @@
 
         if(op!=null && op.equals("loadDmks")){                               //loadDmks 加载弹幕
             String vdo = request.getParameter("vdo");                           //得到正在播放的视频名称
-            String sql ="CREATE TABLE IF NOT EXISTS `"+vdo+"` (" +              //创建弹幕表如果该表不存在
-                        "  `id` int(11) NOT NULL AUTO_INCREMENT," +             //id字段 int 自增
-                        "  `danmaku` varchar(255) NOT NULL," +                  //弹幕字段 varchar(255) 不为空
-                        "  `color` int(11) NOT NULL," +                         //颜色字段 int(11) 不为空
-                        "  `subTime` time NOT NULL," +                          //提交时间字段 time 不为空
-                        "  PRIMARY KEY (`id`)" +                                //主键 id
-                        ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";                //utf8
+
+            String sql = " CREATE TABLE IF NOT EXISTS `"+vdo+"` (" +              //创建弹幕表如果该表不存在
+                    "  `id` int(11) NOT NULL AUTO_INCREMENT," +             //id字段 int 自增
+                    "  `danmaku` varchar(255) NOT NULL," +                  //弹幕字段 varchar(255) 不为空
+                    "  `color` varchar(255) NOT NULL," +                         //颜色字段 int(11) 不为空
+                    "  `subTime` int(11) NOT NULL," +                          //提交时间字段 time 不为空
+                    "  PRIMARY KEY (`id`)" +                                //主键 id
+                    ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";                //utf8
             dbc.update(sql);                                                    //创建
             sql = "SELECT * FROM `"+vdo+"` ORDER BY `subTime`";                 //查询弹幕 按提交顺序排序
             ResultSet rs = dbc.select(sql);
@@ -50,11 +51,12 @@
             String color = request.getParameter("color");                   //得到颜色
             String subTime = request.getParameter("subTime");               //得到提交时间
             String vdo = request.getParameter("vdo");                       //得到正在播放的视频
-            String sql ="CREATE TABLE IF NOT EXISTS `"+vdo+"` (" +          //如果表不存在 则创建表
+
+            String sql = "CREATE TABLE IF NOT EXISTS `"+vdo+"` (" +              //创建弹幕表如果该表不存在
                     "  `id` int(11) NOT NULL AUTO_INCREMENT," +             //id字段 int 自增
                     "  `danmaku` varchar(255) NOT NULL," +                  //弹幕字段 varchar(255) 不为空
-                    "  `color` int(11) NOT NULL," +                         //颜色字段 int(11) 不为空
-                    "  `subTime` time NOT NULL," +                          //提交时间字段 time 不为空
+                    "  `color` varchar(255) NOT NULL," +                         //颜色字段 int(11) 不为空
+                    "  `subTime` int(11) NOT NULL," +                          //提交时间字段 time 不为空
                     "  PRIMARY KEY (`id`)" +                                //主键 id
                     ") ENGINE=InnoDB DEFAULT CHARSET=utf8;";                //utf8
             dbc.update(sql);                                                //运行sql

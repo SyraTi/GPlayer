@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+    <link rel="stylesheet" type="text/css" href="css/jquery.GPlayer.css">
+</head>
+<body>
+	
+	<div>
+        <p>弹幕提交功能 测试通过！</p>
+        <p>弹幕读取功能 测试通过！</p>
+        <p>视频播放功能 测试通过！</p>
+        <p>视频提交功能 测试通过！</p>
+    </div>
+
+    <script src="js/jquery.js"></script>
+    <script src="js/jquery.GPlayer.js"></script>
+    <script type="text/javascript">
+    	$(document).ready(function() {
+    		$('div').GPlayer({
+                load: ['g-dmkForm', 'g-vdo','g-vdoForm',]
+            });
+    	});
+    </script>
+</body>
+</html>
