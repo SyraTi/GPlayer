@@ -18,6 +18,7 @@
 		ajaxPath: '../dmkEngine.jsp',	// 处理ajax的服务器页面
 		load: ['g-dmkForm', 'g-vdoForm', 'g-vdo'] //可用选项:'g-dmkForm'/'g-vdoForm'/'g-vdo' 
 												//按顺序加载 弹幕提交模块/视频提交模块/弹幕播放器模块
+	    autoPlay:false //自动播放
 	});
 
 ###结构

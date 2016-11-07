@@ -1,3 +1,12 @@
+
+
+/* 插件名 jQuery.GPlayer
+* 作者 GenyaHoshino/杭州职业技术学院 软件技术协会
+* Github : http://github.com/GenyaHoshino/GPlayer
+* 最新更新 2016/10/22
+*/
+
+
 ;
 (function ($, window, document, undefined) {
     var gplayer = function (ele, opt) {
@@ -6,10 +15,12 @@
         this.$element = ele;
         this.default = {
             height: 'auto',
-            width: 800,
+            width: 'auto',
             dmkSize: 30,
             ajaxPath: '../dmkEngine.jsp',
-            load: ['g-dmkForm', 'g-vdoForm', 'g-vdo'] //'g-dmkForm'/'g-vdoForm'/'g-vdo'    //按顺序load 弹幕发送/视频上传/视频播放器
+            load: ['g-dmkForm', 'g-vdoForm', 'g-vdo'], //'g-dmkForm'/'g-vdoForm'/'g-vdo'    //按顺序load 弹幕发送/视频上传/视频播放器
+            autoPlay: false,
+            testMode : false
         };
         this.option = $.extend({}, this.default, opt);
         var g = this;
@@ -17,6 +28,7 @@
 
         //创建结构
         for (var i = 0; i < this.option['load'].length; i++) {
+
             switch (this.option['load'][i]) {
                 case 'g-dmkForm':
                     this.$element.append('<form id="g-dmkForm" action="">' +
@@ -37,6 +49,8 @@
             }
         }
 
+       
+
         //变量定义
 
         this.$dmkForm = this.$element.children('#g-dmkForm');
@@ -46,14 +60,18 @@
         //根据配置设定尺寸
         this.$element.attr({
             id: 'g-danmaku'
-        }).css({
-            height: this.option['height'],
-            width: this.option['width']
         });
+        // .css({
+        //     height: this.option.height,
+        //     width: this.option.width
+        // });
 
-
+        // this.$player.css({
+        //     height: this.option.height - this.$dmkForm.height() -this.$vdoForm.height(),
+        // });
         this.$video.css({
-            'width': this.option['width']
+            width: this.option.width,
+            height: this.option.height
         });
 
 
@@ -72,6 +90,17 @@
         $('#g-dmkForm .g-btn').click(function(){
             g.subDmks()
         });
+
+        //测试代码 -- 开始 -- 开发中
+        if(this.option.testMode){
+                this.$element.append('<button id="g-testBtn" type="button">test</button>');
+                $('#g-test').click(function(event) {
+                  
+                    
+                });
+        }
+        //测试代码 结束
+
 
         //临时变量初始化
         this.dmks = new Array();
@@ -142,15 +171,19 @@
                         }
                         this.vdoLen = this.vdos.length;                                           //更新视频数量
                         this.$video.attr('src', this.vdos[++this.vdoCntr]);                            //更新src
-
-                        this.$video[0].onended = function () {                               //播放结束后播放下一个（更新src）
+                        if (!this.option.autoPlay){
+                            this.$video[0].pause();
+                        }
+                        else{
+                            this.$video[0].play();
+                        }
+                        this.$video[0].onended = $.proxy(function () {                               //播放结束后播放下一个（更新src）
                             if (this.vdoCntr >= this.vdoLen) {
                                 this.vdoCntr = 0;
                             }
                             this.$video.attr('src', this.vdos[++this.vdoCntr]);
                             this.$video[0].play();
-                        };
-                        this.$video[0].play();
+                        },this);
                         this.loadDmks();
                     }
                     else {
@@ -161,7 +194,7 @@
             $.ajax(ajaxOptions);
         },
 
-//从服务器加载弹幕
+//从服务器装填弹幕
         loadDmks: function () {
             var vdoPlaying = this.$video.attr('src').substr(this.$video.attr('src').lastIndexOf('/') + 1);   //获取正在播放的视频名称
             var ajaxOptions = {

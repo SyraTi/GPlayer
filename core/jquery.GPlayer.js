@@ -19,6 +19,7 @@
             dmkSize: 30,
             ajaxPath: '../dmkEngine.jsp',
             load: ['g-dmkForm', 'g-vdoForm', 'g-vdo'], //'g-dmkForm'/'g-vdoForm'/'g-vdo'    //按顺序load 弹幕发送/视频上传/视频播放器
+            autoPlay: false,    //自动播放
             testMode : false
         };
         this.option = $.extend({}, this.default, opt);
@@ -43,7 +44,7 @@
                     );
                     break;
                 case 'g-vdo':
-                    this.$element.append('<div id="g-dmkPlayer"><video id="g-vdo" src="" controls>抱歉 你的浏览器不支持video标签</video><div id="g-err"></div></div>');
+                    this.$element.append('<div id="g-dmkPlayer"><video id="g-vdo" src="">抱歉 你的浏览器不支持video标签</video><div id="g-err"></div><div id="g-vdoPlayer"><div id="g-progressBar"><div id="g-progress"></div></div></div></div>');
                     break;
             }
         }
